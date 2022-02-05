@@ -1,0 +1,14 @@
+# Data Sources
+
+## 1. OpenSky_Flight_Data: https://zenodo.org/record/3974209#.Yf7A3_VKida
+
+## 2. JH_Global_Confirmed: https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
+
+## 3. JH_Global_Recovered: https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv
+
+## 4. JH_Global_Deaths: https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv
+
+## 5. Airline_Code_to_Country: https://www.google.com/url?q=https://www.bansard.com/sites/default/files/download_documents/Bansard-airlines-codes-IATA-ICAO.xlsx&sa=D&source=docs&ust=1644089161731330&usg=AOvVaw3JirDZfR0nHcTtdSjMH6hW
+
+
+
